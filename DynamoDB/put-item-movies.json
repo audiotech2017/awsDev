@@ -1,0 +1,14 @@
+{
+    "year":
+      {
+        "N": "2015"
+      },
+    "title":
+      {
+        "S": "TestMovie"
+      },
+    "info":
+    {
+        "S":"information test ..."
+    }
+}
